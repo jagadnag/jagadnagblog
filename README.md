@@ -1,2 +1,2 @@
-# jagadnagblog
+# jagblog
 Blog files
